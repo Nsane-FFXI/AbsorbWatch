@@ -38,7 +38,7 @@ The box updates live and remembers its position.
 ```
 
 ## Defaults
-- Keep absorbs for 900s
+- Keep total amount absorbs casted for last 15 minutes.
 - Show for 60s after last
 - Colors on
 - Counter on
