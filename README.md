@@ -6,14 +6,14 @@ Author: Nsane
 Version: 2025.9.1
 
 ## What it does
-Shows how much TP your Absorb-TP spell takes from party members’ targets.  
+Tracks party members casting Absorb-TP.  
 Puts a small box on your screen with:
 - Player name
 - TP stolen (colored by amount)
 - Time since last absorb
 - How many absorbs for that player
 
-It works only for players in your zone.  
+It works only for players in your party.  
 The box updates live and remembers its position.
 
 ## Install
